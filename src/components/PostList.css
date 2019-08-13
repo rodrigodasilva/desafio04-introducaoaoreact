@@ -1,0 +1,11 @@
+#postList {
+  width: 720px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+#postList:last-child {
+  margin-bottom: 50px;
+}
